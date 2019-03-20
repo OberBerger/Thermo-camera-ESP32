@@ -1,8 +1,9 @@
-//ThermalCAM and Server
+//ThermalCAM
+
 
 
 #include <Wire.h>
-#include <Adafruit_AMG88xx.h>
+#include <Adafruit_AMG88xx.h> //Written by Dean Miller for Adafruit Industries. MIT license - https://github.com/adafruit/Adafruit_AMG88xx
 #include "BluetoothSerial.h"
 #include "esp_bt_device.h"
 
