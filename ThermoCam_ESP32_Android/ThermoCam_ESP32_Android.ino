@@ -1,4 +1,4 @@
-//ThermalCAM
+//ThermoCAM
 
 
 
