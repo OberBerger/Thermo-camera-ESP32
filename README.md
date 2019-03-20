@@ -11,7 +11,8 @@ Board: https://www.aliexpress.com/item/ESP32S-ESP-32S-ESP32-ESP-32-CP2102-Wirele
 Sensor:https://www.aliexpress.com/item/AMG8833-IR-8-8-Thermal-Imager-Array-Temperature-Sensor-Module-8x8-Infrared-Camera-Sensor/32867572849.html<br />
 Use: https://github.com/adafruit/Adafruit_AMG88xx Written by Dean Miller for Adafruit Industries. MIT license.<br />
 
-Connection: AMG833 SCL->ESP32 PIN_D22 <br />
-            AMG833 SDA->ESP32 PIN_D21 <br />
+Connection:<br />
+AMG833 SCL->ESP32 PIN_D22 <br />
+AMG833 SDA->ESP32 PIN_D21 <br />
  
 
