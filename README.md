@@ -12,7 +12,7 @@ Sensor:https://www.aliexpress.com/item/AMG8833-IR-8-8-Thermal-Imager-Array-Tempe
 Use: https://github.com/adafruit/Adafruit_AMG88xx Written by Dean Miller for Adafruit Industries. MIT license.<br />
 
 Connection:<br />
-AMG833 SCL->ESP32 PIN_D22 <br />
-AMG833 SDA->ESP32 PIN_D21 <br />
+AMG8833 SCL -> ESP32 PIN_D22 <br />
+AMG8833 SDA -> ESP32 PIN_D21 <br />
  
 
