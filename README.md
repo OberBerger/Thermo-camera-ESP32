@@ -7,7 +7,7 @@ Minimum: Android 4.0 (API 14)<br />
 Target: Android 5.1.1 (API 22)<br />
 # ESP 32 Code:
 Developing Environment: Arduino Genuino<br />
-Board: https://www.aliexpress.com/item/ESP32S-ESP-32S-ESP32-ESP-32-CP2102-Wireless-WiFi-Bluetooth-Development-Board-Micro-USB-Dual-Core<br />
+Board: https://www.aliexpress.com/item/ESP32S-ESP-32S-ESP32-ESP-32-CP2102-Wireless-WiFi-Bluetooth-Development-Board-Micro-USB-Dual-Core/32842731763.html<br />
 Use: https://github.com/adafruit/Adafruit_AMG88xx<br />
  
 
